@@ -7,16 +7,16 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td>gam_parches_esenciales_importantes_bripario</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_parches_esenciales_importantes_bripario/FeatureServer</td>
+			<td>gam_conectividad_parches_esenciales_importantes_bripario</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bripario/FeatureServer</td>
 		</tr>
 		<tr>
-			<td>gam_rutas_conectividad_bosque_bripario</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_rutas_conectividad_bosque_bripario/FeatureServer</td>
+			<td>gam_conectividad_rutas_conectividad_bosque_bripario</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_bripario/FeatureServer</td>
 		</tr>
 		<tr>
-			<td>gam_parches_esenciales_importantes_bosque_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_parches_esenciales_importantes_bosque_ma/FeatureServer</td>
+			<td>gam_conectividad_parches_esenciales_importantes_bosque_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bosque_ma/FeatureServer</td>
 		</tr>
 		<tr>
-			<td>gam_rutas_conectividad_bosque_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_rutas_conectividad_bosque_ma/FeatureServer</td>
+			<td>gam_conectividad_rutas_conectividad_bosque_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_ma/FeatureServer</td>
 		</tr>
 		<tr>
 			<td>gam_uso_cobertura_gam</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_uso_cobertura_gam/FeatureServer</td>

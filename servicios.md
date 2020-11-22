@@ -7,6 +7,9 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>gam_iv_cbi_rio_maria_aguilar</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_iv_cbi_rio_maria_aguilar/FeatureServer</td>
+		</tr>
+		<tr>
 			<td>gam_conectividad_parches_esenciales_importantes_bripario</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bripario/FeatureServer</td>
 		</tr>
 		<tr>

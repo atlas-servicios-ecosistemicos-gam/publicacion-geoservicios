@@ -1,0 +1,31 @@
+### Servicios
+<table>
+	<thead>
+		<tr>
+			<th>Capa</th><th>ArcGIS Feature Service</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>gam_parches_esenciales_importantes_bripario</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_parches_esenciales_importantes_bripario/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_rutas_conectividad_bosque_bripario</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_rutas_conectividad_bosque_bripario/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_parches_esenciales_importantes_bosque_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_parches_esenciales_importantes_bosque_ma/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_rutas_conectividad_bosque_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_rutas_conectividad_bosque_ma/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_uso_cobertura_gam</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_uso_cobertura_gam/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_limite_cbi_maria_aguilar</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_cbi_maria_aguilar/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_limite_gam</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_gam/FeatureServer</td>
+		</tr>
+	</tbody>
+</table>

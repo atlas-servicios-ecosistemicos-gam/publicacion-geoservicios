@@ -7,9 +7,6 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td>gam_iv_cbi_rio_maria_aguilar</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_iv_cbi_rio_maria_aguilar/FeatureServer</td>
-		</tr>
-		<tr>
 			<td>gam_conectividad_parches_esenciales_importantes_bripario</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bripario/FeatureServer</td>
 		</tr>
 		<tr>
@@ -22,13 +19,31 @@
 			<td>gam_conectividad_rutas_conectividad_bosque_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_ma/FeatureServer</td>
 		</tr>
 		<tr>
-			<td>gam_uso_cobertura_gam</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_uso_cobertura_gam/FeatureServer</td>
-		</tr>
-		<tr>
 			<td>gam_limite_cbi_maria_aguilar</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_cbi_maria_aguilar/FeatureServer</td>
 		</tr>
 		<tr>
+			<td>gam_limite_cbi_rio_torres</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_cbi_rio_torres/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_limite_corredores</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_corredores/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_limite_corredores_cantones</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_corredores_cantones/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_limite_curridabat</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_curridabat/FeatureServer</td>
+		</tr>
+		<tr>
 			<td>gam_limite_gam</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_gam/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_limite_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_limite_montes_de_oca</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_montes_de_oca/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_limite_san_jose</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_san_jose/FeatureServer</td>
 		</tr>
 	</tbody>
 </table>

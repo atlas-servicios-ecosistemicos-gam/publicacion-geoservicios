@@ -13,10 +13,34 @@
 			<td>gam_conectividad_rutas_conectividad_bosque_bripario</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_bripario/FeatureServer</td>
 		</tr>
 		<tr>
+			<td>gam_conectividad_parches_esenciales_importantes_bosque_ripario_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bosque_ripario_ma/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_rutas_conectividad_bosque_bripario_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_bripario_ma/FeatureServer</td>
+		</tr>
+		<tr>
 			<td>gam_conectividad_parches_esenciales_importantes_bosque_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bosque_ma/FeatureServer</td>
 		</tr>
 		<tr>
 			<td>gam_conectividad_rutas_conectividad_bosque_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_ma/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_parches_esenciales_importantes_bripario_otras_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bripario_otras_ma/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_rutas_conectivdad_bripario_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectivdad_bripario_ma/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_parches_esenciales_importantes_migratorias_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_migratorias_ma/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_rutas_conectividad_migratorias_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_migratorias_ma/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_parches_esenciales_importantes_otras_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_otras_ma/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_rutas_conectividad_otras_ma</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_otras_ma/FeatureServer</td>
 		</tr>
 		<tr>
 			<td>gam_limite_cbi_maria_aguilar</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_cbi_maria_aguilar/FeatureServer</td>

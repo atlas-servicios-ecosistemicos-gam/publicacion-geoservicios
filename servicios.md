@@ -103,6 +103,36 @@
 			<td>gam_conectividad_rutas_conectividad_otras_curridabat</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_otras_curridabat/FeatureServer</td>
 		</tr>
 		<tr>
+			<td>gam_conectividad_parches_esenciales_importantes_bosque_bripario_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bosque_bripario_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_rutas_conectividad_bosque_bripario_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_bripario_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_parches_esenciales_importantes_bosque_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bosque_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_rutas_conectividad_bosque_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_parches_esenciales_importantes_bripario_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bripario_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_rutas_conectivdad_bripario_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectivdad_bripario_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_parches_esenciales_importantes_migratorias_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_migratorias_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_rutas_conectividad_migratorias_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_migratorias_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_parches_esenciales_importantes_otras_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_otras_la_union/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_conectividad_rutas_conectividad_otras_la_union</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_otras_la_union/FeatureServer</td>
+		</tr>
+		<tr>
 			<td>gam_limite_cbi_maria_aguilar</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_cbi_maria_aguilar/FeatureServer</td>
 		</tr>
 		<tr>

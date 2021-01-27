@@ -277,6 +277,12 @@
 			<td>gam_conectividad_corredores_cantones_rutas_conectividad_otras</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_corredores_cantones_rutas_conectividad_otras/FeatureServer</td>
 		</tr>
 		<tr>
+			<td>gam_cantones_gam_metricas_se</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_cantones_gam_metricas_se/FeatureServer</td>
+		</tr>
+		<tr>
+			<td>gam_uso_cobertura_gam</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_uso_cobertura_gam/FeatureServer</td>
+		</tr>
+		<tr>
 			<td>gam_limite_cbi_maria_aguilar</td><td>https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_limite_cbi_maria_aguilar/FeatureServer</td>
 		</tr>
 		<tr>
